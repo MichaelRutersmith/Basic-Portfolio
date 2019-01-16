@@ -1,0 +1,24 @@
+/* all rules for body text */
+body{
+color:#777777;
+font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+background-color: #ffffff;
+border-color: #dddddd;
+}
+
+/* all rules for header*/
+.header{
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+background-color: #ffffff;
+border-color: #cccccc;
+}
+
+/* all rules for footer*/
+.footer{
+    background-color: #666666;
+}
+
+/* rules for profile picture in paragraph*/
+#profile {
+    float: left;
+  }
